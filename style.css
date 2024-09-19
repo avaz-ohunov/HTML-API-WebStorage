@@ -1,0 +1,8 @@
+body {
+    background-color: #131619;
+}
+
+span {
+    color: red;
+    cursor: pointer;
+}
